@@ -2,7 +2,10 @@
 from DaisyXMusic.config import ASSISTANT_NAME, PROJECT_NAME
 
 class Messages:
-HELP_MSG = [
+
+        
+        
+        HELP_MSG = [
 
         ".",
 
